@@ -19,6 +19,12 @@ You can turn any image into a fighter, build a squad of three and take it into t
 
 ---
 
+## 🧠 Built with AdaL
+
+MAYHEM was designed and developed with **AdaL**, an AI-assisted development workflow. AdaL helped with game design, UI and UX, the battle engine, the procedural audio and the Cloudinary integration.
+
+---
+
 ## ⚔️ About
 
 MAYHEM is a dark-fantasy creature-collecting game that runs in the browser on desktop, tablet and mobile. It has no installs and no accounts.
@@ -204,11 +210,7 @@ Please keep secrets out of commits and match the existing code style.
 
 ---
 
-## 🧠 Built with AdaL
 
-MAYHEM was designed and developed with **AdaL**, an AI-assisted development workflow. AdaL helped with game design, UI and UX, the battle engine, the procedural audio and the Cloudinary integration.
-
----
 
 ## 📄 License
 
