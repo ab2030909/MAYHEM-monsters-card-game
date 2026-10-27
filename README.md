@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🔥 MAYHEM
-
-### Monster Fighting Arena
+<img src="docs/banner.png" alt="MAYHEM — Monster Fighting Arena" width="100%" />
 
 **Create your legend. Collect the extraordinary. Fight for glory.**
 
